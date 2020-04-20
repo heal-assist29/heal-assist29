@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+   background-image:linear-gradient(rgba(18, 15, 15, 0.72),rgba(18, 15, 15, 0.72)), url(img/kelly-sikkema-0LhR05rkGHg-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.point{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:sans-serif;
+    list-style:decimal;
+    color: rgb(232, 96, 46);
+    margin-top: 2%;
+}
+.answer{
+    font-weight:100;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: aliceblue;
+    padding: 10px
+}
+
+.question{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.title h2{
+    color: aliceblue;
+    width: 8%;
+    font-size: 250%;
+    padding-top: 3%;
+    border-bottom: 2px solid rgb(232, 96, 46);
+}
+
+.body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7));
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+.chat{
+    width: 20%;
+    height: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.chat a{
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    border: 2px solid;
+    border-radius: 40px;
+    padding: 7px 9px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    margin-top: 25%;
+    background-color: rgba(29, 29, 29, 0.36);
+}
+
+
+
+h1{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    color: rgba(240, 248, 255, 0.93);
+    font-size: 250%;
+    padding-top: 9%;
+}
+
+.links a{
+    color: rgba(240, 248, 255, 0.93);
+    letter-spacing: 1px;
+    line-height: 2px;
+}
