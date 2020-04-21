@@ -10,7 +10,7 @@ This website contains several features like----
  * FAQs and links that are useful in this state of emergency
  * A chatbox that will help you clear your mind.
  
-Team Head - Gopal
+Team Head - Gopal..
 This website is designed by:
 'Swaroop Kumar Sahu' and 'M. Vamsi'
-and developed by our beloved team
+and developed by our beloved team lead by Gopal Krishna Panda
