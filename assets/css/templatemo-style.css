@@ -297,11 +297,11 @@ html {
 
 .section {
     color: #fff;
-    width: 55%;
+    width: 75%;
     right: 10%;
     left: 35%;
     position: relative;
-    min-height: 100vh;
+    height:100vh;
     padding-bottom: 80px;
     border-bottom: 3px solid rgba(250, 250, 250, 0.25);
 }
